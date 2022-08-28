@@ -328,6 +328,7 @@ function App() {
           <td>i /i/</td>
           <td></td>
           <td></td>
+          <td></td>
         </tr>
         <tr>
           <td>/e/ ê</td>
