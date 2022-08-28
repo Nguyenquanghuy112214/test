@@ -642,8 +642,8 @@ function App() {
           <td>Lên, tần số cao</td>
           <td>đi lên, cao, ngắn</td>
           <td>C1 – Low
-            falling  {"<"}
-            Hỏi  {">"}</td>
+            falling{"<"}
+            Hỏi{">"}</td>
           <td></td>
           <td></td>
 
@@ -686,7 +686,7 @@ function App() {
             tắc thanh môn</td>
           <td>B2 – Low
             glottalized
-            {"<"}Nặng {">"}</td>
+            {"<"}Nặng{">"}</td>
           <td></td>
           <td></td>
 
